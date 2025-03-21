@@ -38,4 +38,4 @@ open up localhost:
 
 ### Screenshot
 
-![Medical Chat Bot Screenshot](<static/Screenshot 2025-03-20 at 5.08.35 PM.png>)
+![Medical Chat Bot Screenshot](<static/image.png>)
