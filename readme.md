@@ -35,3 +35,7 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+
+### Screenshot
+
+![Medical Chat Bot Screenshot](static/Screenshot 2025-03-20 at 5.08.35 PM.png)
